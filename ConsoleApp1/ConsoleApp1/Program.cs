@@ -14,6 +14,8 @@ namespace ConsoleApp1
             Console.WriteLine("Hello Git!");
             Console.WriteLine("Have good days!");
             Console.WriteLine("no dd dd!");
+            Console.WriteLine("dsds!");
+
         }
     }
 }
